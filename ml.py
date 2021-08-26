@@ -1,15 +1,12 @@
-import pygame
-pygame.init()
+import  random
+import  time
+import  math
+from forex_python.converter import  CurrencyRates
+from colorama import Fore, Back
 
-running = True
+price_list = []
+c = CurrencyRates()
 
-screen = pygame.display.set_mode((480, 360))
-pygame.display.set_caption('Hello world')
-
-while running:
-	for event in pygame.event.get():
-		if event.type == pygame.QUIT:
-			running = False
-			
-	screen.fill((255,255,255))
-	pygame.display.update()
+				
+if __name__ == '__main__':
+	main()
