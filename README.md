@@ -13,39 +13,25 @@ The Repository contains my python source codes that I use for practice purposes.
 
 ## Features
 
-- Light/dark mode toggle
+- Notebooks
 
-- Live previews
+- Datasets
 
-- Fullscreen mode
+- Python files
 
-- Cross platform
-
-  
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+- HTML templates and other Static files
 
   
 
-## Appendix
+## Tech Stack used
 
-Any additional information goes here
+**ML:** Scipy stack
 
-  
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+**Server:** Flask
 
   
+
+
 
 ## 🚀 About Me
 
@@ -53,7 +39,7 @@ I'm a full stack developer...
 
   
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm JS-junior! 👋
 
   
 
@@ -69,12 +55,12 @@ I'm a full stack developer...
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email arnabgogoi@gmail.com or join our Slack channel.
 
   
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at arnabgogoi@gmail.com
 
   
