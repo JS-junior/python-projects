@@ -1,7 +1,6 @@
 import math
 import pyqrcode
 import time
-from playsound import playsound
 import string
 from forex_python.converter import  CurrencyRates
 from colorama import Fore, Back
@@ -100,7 +99,7 @@ def txt_audio():
 		audio = "hello.mp3"
 		sp = gTTS(text="Hello world",lang="en", slow=False)
 		sp.save(audio)
-		playsound(audio)
+		
 		
 def hangman():
 		print('------------Hangman---------------')
