@@ -2,8 +2,9 @@ import  turtle
 from tkinter import *
 import random
 
-'''
+
 #virus
+''''
 turtle.speed(250)
 turtle.color('white')
 turtle.bgcolor('black')
